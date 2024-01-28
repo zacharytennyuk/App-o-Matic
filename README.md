@@ -11,6 +11,9 @@ Features:
 
 • And more!
 
+How to Use:
+
+Download files and open in your IDE of choice.
 
 Happy Apping!
 
